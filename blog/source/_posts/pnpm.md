@@ -138,7 +138,7 @@ Through the above comparative analysis, we can see that pnpm is the real solutio
 
 
   [1]: https://iti-images.s3.amazonaws.com/events/1b3c8c73-75c6-1ac9-0176-df2ae3c61e3b.webp
-  [2]: http://static.zybuluo.com/RandyGong/oo7ve55n7noaosg0dhi9qktb/image.png
+  [2]: https://iti-images.s3.amazonaws.com/events/94e5c1f4-09a2-1d55-13c0-bb302297da24.webp
   [3]: http://static.zybuluo.com/RandyGong/pfjsr6qk72vlwhrrlg05mecw/image.png
   [4]: http://static.zybuluo.com/RandyGong/3m3ez8vzziwgqzvf3t6lc94a/image.png
   [5]: http://static.zybuluo.com/RandyGong/ukg6hz10jzdhme0tq95nih88/image.png
