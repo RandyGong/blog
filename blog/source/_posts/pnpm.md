@@ -137,7 +137,7 @@ We can find that pnpm avoids relying on node_modules The search rules of modules
 Through the above comparative analysis, we can see that pnpm is the real solution to node_modules' dependency dilemma is mainly through the combination of soft link and hard link, which ultimately achieves the advantages of saving disk space, fast installation speed, strict and efficient.
 
 
-  [1]: http://static.zybuluo.com/RandyGong/nzfd3ffsp517edia0w2scc4o/image.png
+  [1]: https://iti-images.s3.amazonaws.com/events/1b3c8c73-75c6-1ac9-0176-df2ae3c61e3b.webp
   [2]: http://static.zybuluo.com/RandyGong/oo7ve55n7noaosg0dhi9qktb/image.png
   [3]: http://static.zybuluo.com/RandyGong/pfjsr6qk72vlwhrrlg05mecw/image.png
   [4]: http://static.zybuluo.com/RandyGong/3m3ez8vzziwgqzvf3t6lc94a/image.png
